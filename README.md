@@ -1,2 +1,2 @@
-# numeric_analysis_with_python
- methodexamples
+# Numeric_Analysis_With_Python
+ Pseudo Programlar ile Sayısal Analiz kitap problemlerinin python ile çözümlenmesi.
